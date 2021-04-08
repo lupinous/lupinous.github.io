@@ -98,7 +98,7 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "자랑스러운 외대부고인"
   location         : "대한민국, 용인"
-  email            : icesalina0115@gmail.com
+  email            : "icesalina0115@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
